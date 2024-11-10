@@ -1,0 +1,15 @@
+{
+  "name": "bana-backend",
+  "version": "1.0.0",
+  "description": "a basic backend for deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic",
+    "backend"
+  ],
+  "author": "prashanta kumar sahu",
+  "license": "ISC"
+}
